@@ -1,1 +1,19 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+ <bug_report>
+ <ID>A1</ID>
+ <Author>Vadim Vakis Erikovich</Author>
+ <Date>19.02.2021</Date>
+ <Project_name>Sajt internet-magazina produktov pitanija UDOMA</Project_name>
+ <STR>
+ <one>Zajti na glavnuju stranitsu sajta (ssylka_na_sajt)</one>
+ <two>Nazhat' knopku Nashi Vakansii</two>
+ </STR>
+<Enviroment>.....</Enviroment>
+ <Component>Nashi Vakansii</Component>
+ <Actual_result>Nazhatie knopki Katalog NE perenapravljaet na stranitsu Nashi Vakansii</Actual_result>
+ <Expected_result>Nazhatie knopki Katalog perenapravljaet na stranitsu Nashi Vakansii</Expected_result>
+ <Severity>Critical</Severity>
+ <Priority>High</Priority>
+ <Status>Open</Status>
+ <Attachments>ssylka_na_kartinku_ili_video_s_bagom</Attachments>
+</bug_report>
