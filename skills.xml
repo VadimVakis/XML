@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<skills>
+  <Skills1>Basic theory (What is testing, bug reports, documentation, types, methods, testing directions, etc.) SDLC, STLC</Skills1>
+        <Skills2>What is a client-server architecture</Skills2>
+        <Skills3>HTTP Methods of requests to the server</Skills3>
+        <Skills4>HTTP server response codes</Skills4>
+        <Skills5>Structures of HTTP requests and responses</Skills5>
+        <Skills6>What is JSON, XML. Their structure</Skills6>
+        <Skills7>API testing via Postman (JS, API autotests)</Skills7>
+        <Skills8>Removing and reading logs from an external server</Skills8>
+        <Skills9>Sniffing http web traffic via Charles and Fiddler</Skills9>
+        <Skills10>Dev Tools of web browsers (Google Chrome, FireFox)</Skills10>
+        <Skills11>VPN. (How it works, why you need it, how to use it, tool options)</Skills11>
+        <Skills12>Mobile testing</Skills12>
+        <Skills13>Feature iOS, Android, guidelines</Skills13>
+        <Skills14>Building iOS applications on XCode. (Those who do not have a Mac computer, just look)</Skills14>
+        <Skills15>Building Android applications on Android Studio</Skills15>
+        <Skills16>ADB (android device management)</Skills16>
+       <Skills17>Setting up proxy and vpn on iOS and Android</Skills17>
+       <Skills18>Interception (sniffing) of mobile traffic via Charles and Fiddler on iOS and Android</Skills18>
+        <Skills19>Command line (terminal) Linux (copying, creating, viewing, moving files on servers without a graphical interface)</Skills19>
+        <Skills20>Basics of bash scripting, automation of routine tasks on the server</Skills20>
+        <Skills21>Access to remote servers</Skills21>
+        <Skills22>SQL basics (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</Skills22>
+        <Skills23>Postgres database (installation, configuration and use)</Skills23>
+        <Skills24>Non-relational database Redis (installation, configuration and use)</Skills24>
+        <Skills25>Load testing in Jmeter</Skills25>
+        <Skills26>Scrum development methodology</Skills26>
+        <Skills27>Python. (Learning the basics. Creating a client-server application)</Skills27>
+</skills>
+
