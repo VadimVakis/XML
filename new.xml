@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<info>
+   <full_name>Vakis Vadim Erikovich</full_name>
+   <age>26</age>
+   <pets>
+   <number>1</number>
+   <type_of_animal>dog</type_of_animal>
+   <name>Bim</name>
+   <age>12</age>
+   </pets>
+   <desired_salary>400$</desired_salary>
+</info>
