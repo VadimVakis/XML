@@ -8,7 +8,7 @@
  <one>Zajti na glavnuju stranitsu sajta (ssylka_na_sajt)</one>
  <two>Nazhat' knopku Nashi Vakansii</two>
  </STR>
-<Enviroment>.....</Enviroment>
+<Enviroment>Windows 7, Versiya 98.0.4758.102 (Oficial'naya sborka), (64 bit)</Enviroment>
  <Component>Nashi Vakansii</Component>
  <Actual_result>Nazhatie knopki Katalog NE perenapravljaet na stranitsu Nashi Vakansii</Actual_result>
  <Expected_result>Nazhatie knopki Katalog perenapravljaet na stranitsu Nashi Vakansii</Expected_result>
